@@ -1,0 +1,9 @@
+../Core/Src/main.c:92:9:CalculateCRC	2
+../Core/Src/main.c:101:6:ProcessData	15
+../Core/Src/main.c:173:6:HAL_UARTEx_RxEventCallback	4
+../Core/Src/main.c:197:5:main	1
+../Core/Src/main.c:245:6:SystemClock_Config	3
+../Core/Src/main.c:293:13:MX_UART4_Init	2
+../Core/Src/main.c:324:13:MX_DMA_Init	1
+../Core/Src/main.c:345:13:MX_GPIO_Init	1
+../Core/Src/main.c:365:6:Error_Handler	1
